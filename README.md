@@ -1,0 +1,1 @@
+# Earthquake-Trend-Analyst-in-Indonesia
